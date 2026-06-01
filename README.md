@@ -169,8 +169,8 @@ in [`docs/project_report.pdf`](docs/project_report.pdf).
 MSc Automotive Embedded Systems - ESIGELEC, Rouen /
 Muthoot Institute of Technology and Science
 
-[LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN) |
-[GitHub](https://github.com/YOUR_GITHUB_USERNAME)
+[LinkedIn](https://www.linkedin.com/in/rosmia-jose) |
+[GitHub](https://github.com/rosmiajose)
 
 ---
 
